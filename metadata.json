@@ -1,0 +1,6 @@
+{
+  "name": "Líder 360 - Gestión de Distribución",
+  "description": "Sistema de gestión industrial, control de inventario, logística de despachos y auditoría de cotizaciones para el sector de lubricantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
